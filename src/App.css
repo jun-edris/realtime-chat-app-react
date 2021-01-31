@@ -190,13 +190,14 @@
 .send-icon {
     top: 1px;
     position: relative;
-    transform: rotate(-90deg);
+    font-size: large;
+    /* transform: rotate(-90deg); */
 }
 
-.pictuure-icon {
+.picture-icon {
     top: 1px;
     position: relative;
-    font-size: 14px;
+    font-size: 30px;
 }
 
 *, *::after, *::before {
