@@ -53,7 +53,7 @@ function MessageForm(props) {
             
             />
             <button type="submit" className="send-button">
-                <SendOutlinedIcon font-size="large" className="send-icon" />
+                <SendOutlinedIcon className="send-icon" />
             </button>
         </form>
     )
